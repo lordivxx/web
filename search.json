@@ -1,0 +1,91 @@
+[
+
+
+{
+"title": "About",
+"tags": "",
+"keywords": "",
+"url": "about",
+"summary": ""
+}
+,
+
+
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Chuck Forsyth&#39;s New Webpage",
+"tags": "",
+"keywords": "",
+"url": "index.html",
+"summary": "This will be used to organize and showcase my professional and personal projects."
+}
+,
+
+
+
+{
+"title": "",
+"tags": "",
+"keywords": "",
+"url": "cssmain.css",
+"summary": ""
+}
+,
+
+
+
+{
+"title": "Scroll layout",
+"tags": "special_layouts",
+"keywords": "json, scrolling, scrollto, jquery plugin",
+"url": "jsmydoc_scroll.html",
+"summary": "This page demonstrates how you the integration of a script called ScrollTo, which is used here to link definitions of a JSON code sample to a list of definitions for that particular term. The scenario here is that the JSON blocks are really long, with extensive nesting and subnesting, which makes it difficult for tables below the JSON to adequately explain the term in a usable way."
+}
+,
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"title": "Welcome to Jekyll!",
+"tags": "",
+"keywords": "",
+"url": "jekyllupdate20180405welcome-to-jekyll.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Welcome the new HPCC",
+"tags": "events",
+"keywords": "",
+"url": "welcome.html",
+"summary": ""
+}
+
+
+
+]
